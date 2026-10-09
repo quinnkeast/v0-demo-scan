@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "dashboard": "Inicio",
+    "transactions": "Transacciones",
+    "send": "Enviar fondos",
+    "cards": "Tarjetas",
+    "settings": "Ajustes"
+  },
+  "dashboard": {
+    "greeting": "Hola de nuevo, {{name}}",
+    "balanceLabel": "Saldo disponible",
+    "recentActivity": "Actividad reciente",
+    "spentThisMonth": "Has gastado {{amount}} este mes",
+    "pendingTransfers_one": "Tienes {{count}} transferencia pendiente",
+    "pendingTransfers_other": "Tienes {{count}} transferencias pendientes"
+  },
+  "transactions": {
+    "title": "Transacciones",
+    "searchPlaceholder": "Buscar transacciones",
+    "emptyTitle": "Aún no hay transacciones",
+    "count_one": "{{count}} transacción",
+    "count_other": "{{count}} transacciones",
+    "lastUpdated": "Actualizado {{time}}"
+  },
+  "send": {
+    "title": "Enviar dinero",
+    "recipientLabel": "Destinatario",
+    "amountLabel": "Importe",
+    "reviewButton": "Revisar transferencia",
+    "confirmBody": "Vas a enviar {{amount}} a {{recipient}}.",
+    "confirmButton": "Enviar ahora",
+    "dailyLimit_one": "Te queda {{count}} transferencia hoy",
+    "dailyLimit_other": "Te quedan {{count}} transferencias hoy"
+  },
+  "settings": {
+    "title": "Ajustes",
+    "language": "Idioma",
+    "notifications": "Notificaciones",
+    "signOut": "Cerrar sesión"
+  }
+}
