@@ -10,14 +10,14 @@ function Cards() {
 
       <section className="card-stack">
         <article className="payment-card">
-          <span className="payment-card-type">Physical card</span>
+          <span className="payment-card-type">Physical cards</span>
           <span className="payment-card-number">Card ending in 4821</span>
           <Button
             variant="secondary"
             aria-label="Freeze or unfreeze your card"
             onClick={() => setFrozen((value) => !value)}
           >
-            {frozen ? "Unfreeze card" : "Freeze card"}
+            {frozen ? "Unfreeze card" : "Freeze card solid"}
           </Button>
           {frozen && (
             <p className="payment-card-note">
