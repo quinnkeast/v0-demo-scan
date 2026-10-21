@@ -10,7 +10,7 @@ function Cards() {
 
       <section className="card-stack">
         <article className="payment-card">
-          <span className="payment-card-type">Physical card</span>
+          <span className="payment-card-type">Physical cards</span>
           <span className="payment-card-number">Card ending in 4821</span>
           <Button
             variant="secondary"
