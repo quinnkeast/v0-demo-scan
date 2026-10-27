@@ -2,7 +2,7 @@
   "nav": {
     "dashboard": "Overview",
     "transactions": "Transactions",
-    "send": "Send money",
+    "send": "Send money.",
     "cards": "Cards",
     "settings": "Settings"
   },
