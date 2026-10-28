@@ -12,7 +12,7 @@ function Crypto() {
           <Badge>NFTs</Badge>
         </div>
         <Text variant="dim" as="p">
-          Cryptography is not cool
+          Cryptography is very cool!
         </Text>
       </section>
 
